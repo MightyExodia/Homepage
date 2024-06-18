@@ -18,11 +18,14 @@ My personaly journey in IT has led me to develop a passion for cybersecurity, an
 
 | Category                                         | Tool        |
 |-----------------------------------------------|----------------------------|
-|Network|<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" align="left" /> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" align="left" />|
-|Endpoint|<img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" align="left" />|
-|SIEM|<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" align="left" />|
-|Virtualisation|<img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" align="left" />|
-|Logging and Monitoring|<img src="https://img.shields.io/badge/-Sysmon-003366?&style=for-the-badge&logo=Windows&logoColor=white" align="left" />|
+|Network|<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white"  /> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />|
+|Endpoint|<img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />|
+|SIEM|<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />|
+|Virtualisation|<img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />|
+|Logging and Monitoring|<img src="https://img.shields.io/badge/-Sysmon-003366?&style=for-the-badge&logo=Windows&logoColor=white" />|
+|Penetration Testing and Exploitation|<img src="https://img.shields.io/badge/-Msfvenom-721817?style=for-the-badge&logo=metasploit&logoColor=white" />|
+|Network Scanning and Assessment|<img src="https://img.shields.io/badge/-NMAP-2C2D72?style=for-the-badge&logo=nmap&logoColor=white" />|
+|Scripting and Automation|<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />|
 
 ## Certifications
 <div>
